@@ -23,7 +23,7 @@ Built with only **HTML**, **CSS**, and **JavaScript** — no frameworks, no back
 
 | Task Input UI | Added Tasks | Completed View |
 |---------------|-------------|----------------|
-| ![Input UI](https://github.com/akhileshchaubey51/CodeAlpha_To-Do-List/blob/main/todo/ss.png?raw=true) | ![Input UI](https://raw.githubusercontent.com/your-username/repo-name/main/ss1.png) | ![Input UI](https://raw.githubusercontent.com/your-username/repo-name/main/ss2.png)
+| ![Input UI](https://github.com/akhileshchaubey51/CodeAlpha_To-Do-List/blob/main/todo/ss.png?raw=true) | ![Input UI](https://github.com/akhileshchaubey51/CodeAlpha_To-Do-List/blob/main/todo/ss1.png?raw=true)| ![Input UI](https://github.com/akhileshchaubey51/CodeAlpha_To-Do-List/blob/main/todo/ss2.png?raw=true)
  |
 
 ---
