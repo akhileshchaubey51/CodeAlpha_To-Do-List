@@ -30,11 +30,12 @@ Built with only **HTML**, **CSS**, and **JavaScript** — no frameworks, no back
 
 ## 📂 Folder Structure
 
-📁 to-do-list/
-├── index.html
+├── to_do.html
 ├── style.css
-└── script.js
-
+├── script.js
+├── ss.png
+├── ss1.png
+└── ss2.png
 ---
 
 ## 🚀 How to Use
