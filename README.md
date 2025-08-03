@@ -23,7 +23,8 @@ Built with only **HTML**, **CSS**, and **JavaScript** — no frameworks, no back
 
 | Task Input UI | Added Tasks | Completed View |
 |---------------|-------------|----------------|
-| ![Input](./51275c74-f362-45c4-b71e-a57a30d63f61.png) | ![Added](./90c1cfe3-1f6f-4820-88ed-57bf9a00e7da.png) | ![Completed](./390fb115-fb8a-4597-be74-61eb3e0359aa.png) |
+| ![Input UI](https://raw.githubusercontent.com/your-username/repo-name/main/ss.png) | ![Input UI](https://raw.githubusercontent.com/your-username/repo-name/main/ss1.png) | ![Input UI](https://raw.githubusercontent.com/your-username/repo-name/main/ss2.png)
+ |
 
 ---
 
