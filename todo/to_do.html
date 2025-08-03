@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>📋 My Tasks</h1>
+        <div class="input-section">
+            <input type="text" id="taskInput" placeholder="Task..." />
+            <input type="date" id="dueDate" />
+            <button onclick="addTask()">Add</button>
+        </div>
+
+        <div class="filter-section">
+            <button onclick="filterTasks('all')">All</button>
+            <button onclick="filterTasks('pending')">Pending</button>
+            <button onclick="filterTasks('completed')">Completed</button>
+        </div>
+
+        <ul id="taskList"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
